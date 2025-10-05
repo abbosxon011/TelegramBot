@@ -1,7 +1,7 @@
 # uno_bot.py
 # Requirements: python-telegram-bot v20.3
 # Run: python uno_bot.py
-# Set TOKEN below.
+# Set TOKEN below
 
 import asyncio
 import random
